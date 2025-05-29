@@ -63,7 +63,7 @@ def find_and_extract(tough_parameters,directory,output_file):
 # File containing strings to search
 strings_file = 'parameters.txt'  
 # Directory containing files to search
-search_directory = 'Twin Valley'
+search_directory = 'Folder_Name'
 # Output report
 report_file = 'search_report.txt'
 #complicated parameters that need manual checks
