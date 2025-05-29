@@ -1,0 +1,153 @@
+ext-2u
+ext-2uh- tps345-1
+ext-2uh-tp32-2
+dhge-10
+ms1-4
+dhge-20
+dhxe-4
+dhxe-8
+dhce-1q
+dhce-2q
+dhce-2
+dh400-1q
+dh25-8mr
+dhge-4eb
+mse1-32
+ms345-3
+mxe-4-16
+mng port
+mng-protection-mode
+synce-xe-tx-timing
+syncronous enabled
+master-slave-mode
+priority-tagged-frame-handling
+untagged-frame-handling
+pvid
+hold-time-up
+hold-time-down
+100G
+400G
+10G
+unnumbered lo0
+interface-mpls-tp-frr
+VLAN Translation
+ingress-qos
+egress-qos
+ieee802_1p-classifier
+dscp-classifier
+exp-marking
+ieee802_1p-marking
+exp-classifier
+pcp-marking-for-untagged-ac
+ieee802_1p-marking-ac
+wred
+cac
+lag
+Min active link
+Max Active link
+LACP timeout
+LACP mode
+ES-AA
+tx-tp-destination-mac
+CES
+L2T
+Switching instance
+MSPW
+BDVSI
+ND-l2-service-mtu 
+pw-type ethernet
+vfib-quota
+load-balance-flow-label
+pw-status-tlv-enable
+IPv4
+PE-CE OSPF v2
+PE-CE eBGP
+PE-CE VRRP
+PE-CE Static Route
+L3-IRB
+VPLS over phy int.
+VPLS over ES
+VPWS
+EVPN with IRB
+non-diffserv 
+diffserv
+Protected 
+Port PM
+LIF PM Monitor
+LIF PM Collection
+Port PM Collection
+LIF Statistics
+Port Statistics
+extended statistics - Port
+extended statistics - LIF
+gvm-pm-types-collection
+statistics
+Prefix-list
+Community
+Ex-Community
+inet unicast
+inet-vpn unicast
+bgp
+direct
+local
+static
+ospf
+ipv4 address
+scale-profile
+defect Profile-port
+VLAN TPID
+VLAN Range
+Policier
+BGP
+FRR enabled
+Ti-LFA
+lsp-lifetime
+lsp-mtu
+lsp-refresh-time
+subnet-check-disable
+te-metric
+graceful-restart
+recovery-time 
+restart-time
+hello-padding-disable
+lsp-pacing-interval
+hello-interval
+hello-multiplier
+OSPF
+LDP
+auto-configuration-disable
+graceful-restart
+reconnect-timeout
+recovery-time
+hello-hold-time
+keepalive-hold-time
+SH BFD
+SR enable
+ipv4-adj-segment-mode
+srgb-range start
+srgb-range end
+LLDP
+ptp-1588
+SNMP
+with FRR enabled
+on ISIS
+Location
+local address
+lct security mode
+ntp server 
+utilization-thresholds
+rib
+fib-limit
+max-ipv6-host-arp-entries
+t3-options
+timing-sources
+t0-options
+t4-option
+CES Ports Protection
+Firewall-filter
+login-user 
+logging-options
+pb-network-id
+vfib-quota-options 
+unicast-weight
+multicast-weight
