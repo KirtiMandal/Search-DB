@@ -1,7 +1,7 @@
 
 set protocols isis protocol-instance 0 enable
 set protocols isis protocol-instance 0 max-area-address-length 3
-set protocols isis protocol-instance 0 system-id-host-name ABLN-A-4230
+set protocols isis protocol-instance 0 system-id-host-name abc
 set protocols isis protocol-instance 0 lsp-lifetime 1200
 set protocols isis protocol-instance 0 lsp-mtu 1492
 set protocols isis protocol-instance 0 lsp-refresh-time 900
